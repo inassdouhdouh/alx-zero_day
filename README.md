@@ -1,6 +1,1 @@
-my first readme
-=)Ã Â^C
-
-cd 
-clear
-
+another readme for 0x03-git
